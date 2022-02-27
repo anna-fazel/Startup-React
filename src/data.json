@@ -1,0 +1,23 @@
+[ 
+  {
+    "id": 1,
+    "name": "Business Title1",
+    "autor": "admin",
+    "rating": 5,
+    "footer": "Footer"
+  },
+  {
+    "id": 2,
+    "name": "Business Title2",
+    "autor": "admin",
+    "rating": 4,
+    "footer": "Footer"
+  },
+  {
+    "id": 3,
+    "name": "Business Title3",
+    "autor": "admin",
+    "rating": 4.5,
+    "footer": "Footer"
+  }
+]
